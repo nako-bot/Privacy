@@ -10,6 +10,6 @@ We do not and will never share or sell your personal information for any absolut
 
 All information we store is Discord Data that we are allowed to use. We will not ask for external information like your real name, address or anything sensitive. We do not and will never save information you did not provide.
 
-If you have some concerns regarding our Privacy Policy, please reach out us: [Contact Support], and we will make sure to answer you as soon as possible.
+If you have some concerns regarding our Privacy Policy, please reach out us: [Contact Support](https://discord.com/users/868372892524621824), and we will make sure to answer you as soon as possible.
 
 **We may add, remove or edit our Terms and policies anytime. You agree to checking our Terms of Service and Privacy Policies regularly.**
